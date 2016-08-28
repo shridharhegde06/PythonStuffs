@@ -1,4 +1,4 @@
-#This python module opens triggers a youtube video afte continue 2 hours of work.
+#This python module opens triggers a youtube video afte continue 1 hour of work.
 import webbrowser
 import time
 from tkinter import *
